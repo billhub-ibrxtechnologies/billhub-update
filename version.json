@@ -1,6 +1,6 @@
 {
-       "latest_version": "1.0.0",
-       "minimum_version": "1.0.0",
+       "latest_version": "2.0.0",
+       "minimum_version": "2.0.0",
        "release_notes": "- Added QR code payment feature\n- Fixed stock management bugs\n- Improved thermal printing",
        "download_url": "https://github.com/billhub-ibrxtechnologies/billhub-update/releases/latest",
        "force_update": false
