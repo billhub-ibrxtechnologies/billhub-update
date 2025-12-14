@@ -1,0 +1,7 @@
+{
+       "latest_version": "1.2.0",
+       "minimum_version": "1.0.0",
+       "release_notes": "- Added QR code payment feature\n- Fixed stock management bugs\n- Improved thermal printing",
+       "download_url": "https://github.com/yourusername/billhub/releases/latest",
+       "force_update": false
+   }
