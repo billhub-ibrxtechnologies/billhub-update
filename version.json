@@ -1,7 +1,7 @@
 {
        "latest_version": "2.2.0",
        "minimum_version": "2.2.0",
-       "release_notes": "- Thermal Bills now has a new column named "MRP"\n- Structural change in Thermal Bills for readability\n- You can now add your GSTIN in Thermal Bills\n- Multiple products having same barcode values are now prohibited. You will be notified if this issue persists in your products database.\n- App startup is now faster",
+       "release_notes": "- Thermal Bills now has a new column named 'MRP'\n- Structural change in Thermal Bills for readability\n- You can now add your GSTIN in Thermal Bills\n- Multiple products having same barcode values are now prohibited. You will be notified if this issue persists in your products database.\n- App startup is now faster",
        "download_url": "https://github.com/billhub-ibrxtechnologies/billhub-update/releases/latest",
        "force_update": true
    }
